@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/emotion-diary/static/css/main.d20f7252.css",
-    "main.js": "/emotion-diary/static/js/main.7d64cd5a.js",
+    "main.js": "/emotion-diary/static/js/main.36c558c8.js",
     "index.html": "/emotion-diary/index.html",
     "main.d20f7252.css.map": "/emotion-diary/static/css/main.d20f7252.css.map",
-    "main.7d64cd5a.js.map": "/emotion-diary/static/js/main.7d64cd5a.js.map"
+    "main.36c558c8.js.map": "/emotion-diary/static/js/main.36c558c8.js.map"
   },
   "entrypoints": [
     "static/css/main.d20f7252.css",
-    "static/js/main.7d64cd5a.js"
+    "static/js/main.36c558c8.js"
   ]
 }
