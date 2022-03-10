@@ -11,7 +11,7 @@ const Edit = () => {
 
   useEffect(() => {
     const titleElement = document.getElementsByTagName("title")[0];
-    titleElement.innerHTML = `감정 일기장 - ${parseInt(id) + 1}번째 일기 수정`;
+    titleElement.innerHTML = `감정 일기장 - ${id}번 일기 수정`;
   }, []);
 
   useEffect(() => {
@@ -19,6 +19,7 @@ const Edit = () => {
       const targetDiary = diaryList.find(
         (it) => parseInt(it.id) === parseInt(id)
       );
+
       if (targetDiary) {
         setOriginData(targetDiary);
       } else {

@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useReducer, useRef } from "react";
+import React, { useEffect, useReducer, useRef } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import Diary from "./pages/Diary";

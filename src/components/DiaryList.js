@@ -1,6 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { useEffect, useState } from "react/cjs/react.development";
+
 import DiaryItem from "./DiaryItem";
 import MyButton from "./MyButton";
 
