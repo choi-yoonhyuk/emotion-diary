@@ -8,9 +8,8 @@
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
  &nbsp
 </p>
-> 5가지 감정을 골라 오늘의 하루를 표현하는 일기 앱 "Simple Diary"입니다.
-> </br>
-
+- 5가지 감정을 골라 오늘의 하루를 표현하는 일기 앱 "Simple Diary"입니다.</br>
+- 
 '완전 좋음', '좋음', '그러저럭', '나쁨', '끔찍함' 총 5가지 감정을 선택하여 오늘 나의 감정을 토대로 일기를 쓰는 서비스 입니다.
 
 ---
